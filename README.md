@@ -10,7 +10,7 @@
 
 -----------
 <h2>Jogadores</h2>
-- Pode ser no minino 2 jogadores.
-- Idade de 7+
-- Podend entrar até 20 pessoas.
+- Pode ser no minino 2 jogadores.<br>
+- Idade de 7+.<br>
+- Podend entrar até 20 pessoas.<br>
  
